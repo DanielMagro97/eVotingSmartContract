@@ -6,4 +6,4 @@ Citizen Data by Mark Said Camilleri
 
 Malta Public Transport by Aaron Bonavia
 
-Hospitals and Clinics by Daniel Magro and Mark Said Camilleri
+Hospitals and Clinics by the group
